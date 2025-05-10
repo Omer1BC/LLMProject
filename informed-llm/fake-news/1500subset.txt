@@ -1,0 +1,43 @@
+Loading Fake and True news CSV files …
+Using 1500 examples (subset of 44898)
+
+Running evaluation on 1500 examples…
+Evaluating pipeline: base
+ → accuracy: 51.267%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        FAKE     0.5690    0.1780    0.2712       764
+        TRUE     0.5020    0.8601    0.6340       736
+
+    accuracy                         0.5127      1500
+   macro avg     0.5355    0.5190    0.4526      1500
+weighted avg     0.5361    0.5127    0.4492      1500
+
+Confusion Matrix:
+[[136 628]
+ [103 633]]
+
+--------------------------------------------------------------------------------
+
+Evaluating pipeline: debate-ext
+ → accuracy: 52.200%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        FAKE     0.6083    0.1728    0.2691       764
+        TRUE     0.5074    0.8845    0.6449       736
+
+    accuracy                         0.5220      1500
+   macro avg     0.5578    0.5286    0.4570      1500
+weighted avg     0.5588    0.5220    0.4535      1500
+
+Confusion Matrix:
+[[132 632]
+ [ 85 651]]
+
+--------------------------------------------------------------------------------
+
+Done.

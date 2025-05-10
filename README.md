@@ -171,4 +171,4 @@ Download Data.csv from the repository, and with Benchmarks.ipynb opened, select 
 Next, click the small file icon to upload Data.csv into your project. Data.csv is now attached to the root directory.
 
 ### Running the Script
-You can either run each code snippet individually by clicking the triangle button on the left side, or running ctrl + F9 to run everything. Scroll to view the results.
+You can either run each code snippet individually by clicking the triangle button on the left side, or running ```ctrl + F9``` to run everything. Scroll to view the results.

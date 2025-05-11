@@ -81,10 +81,6 @@ Note: For all of these commands, you can run:
 ```
 This will give you guidance on what you can do with each one.
 
-## Batch Jobs (Incomplete):
-
-When I figure out how to run batch jobs, I will place a guide here for them.
-
 # Login Node Installation Requirements:
 
 Here we will outline the installation requirements for our code once you have logged into the login node. This can be done either in the login node or within a cluster node.

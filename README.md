@@ -18,3 +18,6 @@ Our team also presented slides on the issue covering the highlights of our findi
 ## Code
 There are 2 portions to the project: the main debate algorithm and benchmarks we used for basic classifiers like Naive Bayes, Logistic Regression, and Random Forest. The details for reproducing the code are found in the readmes for each part.
 
+[Instructions for Chain of Debate](https://github.com/Omer1BC/LLMProject/tree/main/code/chain-of-debate/informed-llm)  
+[Instructions for Benchmarks](https://github.com/Omer1BC/LLMProject/tree/main/code/benchmarks)  
+

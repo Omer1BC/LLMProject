@@ -1,5 +1,5 @@
 # Project Website
-This is our website for our chain of debate project.
+This is our website for our chain of debate project by Kovidh Jain, Liam May, and Omer Abbas.
 
 ## Report
 We wrote an extensive report on how using chain of debate-where models argue with each other before producing a final response-can produce modest improvements in performance metrics such as precision, recall, and F1. The report is linked below.

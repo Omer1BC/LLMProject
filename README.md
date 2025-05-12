@@ -3,7 +3,9 @@ This is our website for our chain of debate project.
 
 ## Report
 We wrote an extensive report on how using chain of debate-where models argue with each other before producing a final response-can produce modest improvements in performance metrics such as precision, recall, and F1. The report is linked below.
-[View Report](https://github.com/Omer1BC/LLMProject/blob/main/Chain_of_Debate__A_Multi_Agent_Framework_for_Misinformation_Detection.pdf)
+
+[View Report](https://github.com/Omer1BC/LLMProject/blob/main/Chain_of_Debate__A_Multi_Agent_Framework_for_Misinformation_Detection.pdf)  
+
 
 ## Slides & Video
 Our team also presented slides on the issue covering the highlights of our findings. The recording of our slide presentation is provided in a video with and a small demo that gives an example of how the debate plays for a particular article.

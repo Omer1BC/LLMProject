@@ -1,7 +1,9 @@
-# Note
-This repository has 2 main folders. ```informed-llm``` is the main project with the algorithm our team developed and ```benchmarks``` is the code to run the benchmarks against simple classifiers. The readme cover how to execute both, starting with ```informed-llm```.
+# Project Website
+This is our website for our chain of debate project.
 
-Note: Some commands may need you to subsititute specific information into them (e.i. pid)
+## Report
+We wrote an extensive report on how using chain of debate-where models argue with each other before producing a final response-can produce modest improvements in performance metrics such as precision, recall, and F1. The report is found here: 
+[Read the full report here](https://github.com/Omer1BC/LLMProject/blob/main/Chain_of_Debate__A_Multi_Agent_Framework_for_Misinformation_Detection.pdf)
 
 
 # Accessing Tinkercliffs on ARC Cluster via SSH

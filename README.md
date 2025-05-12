@@ -7,9 +7,11 @@ We wrote an extensive report on how using chain of debate-where models argue wit
 
 ## Slides & Video
 Our team also presented slides on the issue covering the highlights of our findings. The recording of our slide presentation is provided in a video with and a small demo that gives an example of how the debate plays for a particular article.
-[View Slides](https://github.com/Omer1BC/LLMProject/blob/main/Chain_of_Debate__A_Multi_Agent_Framework_for_Misinformation_Detection.pdf)
-[Watch the Demo](https://www.youtube.com/watch?v=BfJ4w71tdrE)
+
+[View Slides](https://github.com/Omer1BC/LLMProject/blob/main/Chain_of_Debate__A_Multi_Agent_Framework_for_Misinformation_Detection.pdf)  
+[Watch the Demo](https://www.youtube.com/watch?v=BfJ4w71tdrE)  
 [Watch the Recording](https://www.youtube.com/watch?v=UkqEEMxqT9g&t=421s)
+
 
 ## Code
 There are 2 portions to the project: the main debate algorithm and benchmarks we used for basic classifiers like Naive Bayes, Logistic Regression, and Random Forest. The details for reproducing the code are found in the readmes for each part.
